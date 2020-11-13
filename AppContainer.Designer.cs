@@ -1,7 +1,7 @@
 ﻿
 namespace Fantastic_Browser
 {
-    partial class Form1
+    partial class AppContainer
     {
         /// <summary>
         /// 必需的设计器变量。
